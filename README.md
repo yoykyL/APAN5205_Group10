@@ -11,8 +11,6 @@ from the **developer perspective** (survey responses).
 ```
 ├── Clustering_job_posting.ipynb              # Analysis 1: AI Job Posting Skill Profiling
 ├── Clustering_survey_data.ipynb              # Analysis 2: Developer Survey Skill Profiling
-├── Old_Clustering_job_posting.ipynb          # Previous version of Analysis 1
-├── Old_Clustering_survey_data.ipynb          # Previous version of Analysis 2
 │
 ├── data/
 │   ├── prepared_job_posting_ai.csv    # Input data for Analysis 1
