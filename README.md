@@ -9,8 +9,9 @@ from the **developer perspective** (survey responses).
 ## Repository Structure
 
 ```
-├── Clustering_job_posting.ipynb              # Analysis 1: AI Job Posting Skill Profiling
-├── Clustering_survey_data.ipynb              # Analysis 2: Developer Survey Skill Profiling
+├── Working_Cluster_survey_data.ipynb              # Working Codes for Analysis 1: Developer Survey Skill Profiling
+├── Working_Cluster_job_posting.ipynb              # Working Codes for Analysis 2: AI Job Posting Skill Profiling
+├── Final_Clustering_Analysis.ipynb                # Final Codes for two analyses
 │
 ├── data/
 │   ├── prepared_job_posting_ai.csv    # Input data for Analysis 1
