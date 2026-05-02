@@ -14,11 +14,11 @@ from the **developer perspective** (survey responses).
 ├── Final_Clustering_Analysis.ipynb                # Final Codes for two analyses
 │
 ├── data/
-│   ├── prepared_job_posting_ai.csv    # Input data for Analysis 1
-│   ├── prepared_survey_data.csv       # Input data for Analysis 2
-│   ├── adzuna_ai_all_available.csv    # Original raw data for Analysis 1
-│   ├── jobpost_cluster_k_search.csv   # Summary data for Analysis 1
-│   └── final_cluster_summary.csv      # Summary data for Analysis 2
+│   ├── prepared_survey_data.csv       # Input data for Analysis 1
+│   ├── prepared_job_posting_ai.csv    # Input data for Analysis 2
+│   ├── adzuna_ai_all_available.csv    # Original raw data for Analysis 2
+│   ├── final_cluster_summary.csv      # Summary data for Analysis 1
+│   └── jobpost_cluster_k_search.csv   # Summary data for Analysis 2
 |
 ├── fig0_skill_prevalence.png                 # Overall skill prevalence bar chart
 ├── fig1_seniority_level_overview.png         # Seniority distribution and salary overview
